@@ -1,0 +1,103 @@
+---
+title: "STA9792 - Homework 2"
+author: "Christopher Lang"
+date: "November 12, 2017"
+output: pdf_document
+---
+
+## Question 2.1
+Please see the code script named `STA9792 - Homework 2 code.R`, under section **Question 2.1** for references to answers
+
+The program is written in R, and uses data from the Excel spreadsheet `Excel HW02.xlsm` from worksheet `Prob 2.1 CAPM Regression` and `Stock Data`
+
+Using the data, we utilized R's builtin linear regression modeling capabilities, and iterated over all 500 stocks from the `Stock Data` worksheet
+
+Each `lm()` call automatically performs the hypothesis t-test on the regressor (i.e. market index) but only on $\beta=0$ null hypothesis. Therefore we performed our own. For each regression model we found the $\beta$ t-value using this formulation:
+
+$$t_{\hat{\beta}}=\frac{\hat{\beta} - 1}{se_{\hat{\beta}}}$$
+
+With a t-critical value to be 1.645
+
+Of the 500 stocks we performed the CAPM model on, 377 had significant $\beta$ values
+
+
+## Question 2.3
+Please see the code script named `STA9792 - Homework 2 code.R`, under section **Question 2.3** for references to answers
+
+The program is written in R, and uses data from the Excel spreadsheet `Excel HW02.xlsm` from worksheet `Prob 2.3 Probability Model`
+
+We first convert the provided probability into a linear regression form by doing the following:
+
++ $new_prob=\frac{prob}{1-prob}$
++ Then $new_prob=ln(new_prob)$
+
+This linearizes the form into a standard linear regression
+
+A linear regression on the regressors $X1$, $X2$, and $X3$ is performed
+
+The resulting probabilities is reversed back:
+
++ $\frac{ln(pred_prob)}{1+ln(pred_prob)}$
+
+The predicted probabilities is then compared to the original probabilities. We got a MSE of $0.0304$
+
+
+## Question 2.4
+Let $\hat{y}=\beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3$
+
+Our error function (residual sum of squares) is:
+$$L=\sum^{n}_{i=1}(y-\hat{y})^2$$
+subject to the constraint of $\beta_1+\beta_2=0.5$. Let:
+$$g(\beta_j)=\beta_1+\beta_2-0.5=0$$
+Therefore our Lagrange objective function is:
+$$E=\sum^{n}_{i=1}(y-\hat{y})^2+\lambda \cdot g(\beta_j)$$
+
+$$E=\sum^{n}_{i=1}(y-\hat{y})^2+\lambda(\beta_1+\beta_2-0.5)$$
+
+Taking the partial derivative of $E$ with respect to $\beta$ and setting to zero, we get the following:
+$$\frac{\partial}{\partial\beta_j}E=\frac{\partial}{\partial\beta_j}[\sum^{n}_{i=1}(y-\hat{y})^2+\lambda(\beta_1+\beta_2-0.5)]=0$$
+
+$$\frac{\partial}{\partial\beta_j}E=2\sum^{n}_{i=1}(y-\hat{y})(-\frac{\partial}{\partial\beta_j}\hat{y})+\lambda\frac{\partial}{\partial\beta_j}(\beta_1+\beta_2-0.5)=0$$
+
+Hence, the first order conditions will be the following:
+$$\frac{\partial}{\partial\beta_0}E=2\sum^{n}_{i=1}(y-(\beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3))(-1)=0$$
+
+$$\frac{\partial}{\partial\beta_1}E=2\sum^{n}_{i=1}(y-(\beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3))(-x_1)+\lambda=0$$
+
+$$\frac{\partial}{\partial\beta_2}E=2\sum^{n}_{i=1}(y-(\beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3))(-x_2)+\lambda=0$$
+
+$$\frac{\partial}{\partial\beta_3}E=2\sum^{n}_{i=1}(y-(\beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3))(-x_3)=0$$
+
+Rewritting:
+$$\sum \beta_0+\sum \beta_1x_1+\sum\beta_2x_2+\sum\beta_3x_3=\sum y_i$$
+
+$$\sum \beta_0x_1+\sum \beta_1x_1x_1+\sum \beta_2x_2x_1+\sum \beta_3x_3x_1=-\frac{\lambda}{2}+\sum y_ix_{i,1}$$
+
+$$\sum \beta_0x_2+\sum \beta_1x_1x_2+\sum \beta_2x_2x_2+\sum \beta_3x_3x_2=-\frac{\lambda}{2}+\sum y_ix_{i,2}$$
+
+$$\sum \beta_0x_3+\sum \beta_1x_1x_3+\sum \beta_2x_2x_3+\sum \beta_3x_3x_3=-\frac{\lambda}{2}+\sum y_ix_{i,3}$$
+
+$$\begin{bmatrix}
+  n & \sum x_{i,1} & \sum x_{i,2} & \sum x_{i,3}\\
+  \sum x_{i,1} & \sum x_{i,1}^2 & \sum x_{i,2}x_{i,1} & \sum x_{i,3}x_{i,1} \\
+  \sum x_{i,2} & \sum x_{i,1}x_{i,2} & \sum x^2_{i,2} & \sum x_{i,3}x_{i,2} \\
+  \sum x_{i,3} & \sum x_{i,1}x_{i,3} & \sum x_{i,3}x_{i,2} & \sum x_{i,3}^2
+\end{bmatrix} \cdot
+\begin{bmatrix}
+  \beta_0 \\
+  \beta_1 \\
+  \beta_2 \\ 
+  \beta_3
+\end{bmatrix} =
+\begin{bmatrix}
+  \sum y_i \\
+  \sum y_ix_{i,1} \\
+  \sum y_ix_{i,2} \\
+  \sum y_ix_{i,3}
+\end{bmatrix} - 
+\begin{bmatrix}
+\frac{\lambda}{2} \\
+\frac{\lambda}{2} \\
+\frac{\lambda}{2} \\
+\frac{\lambda}{2}
+\end{bmatrix}$$
