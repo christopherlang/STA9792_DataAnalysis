@@ -1,0 +1,834 @@
+GameID	Week	Date	HomeTeam	HomeID	HomePts	AwayTeam	AwayID	AwayPts	Spread	TotalPts
+1	1	8/26/2017	Brigham Young	17	20	Non-FBS Team	131	6	14	26
+2	1	8/26/2017	Colorado St	26	58	Oregon St	86	27	31	85
+3	1	8/26/2017	Massachusetts	58	35	Hawai`i	40	38	-3	73
+4	1	8/26/2017	San José St	93	22	South Florida	97	42	-20	64
+5	1	8/26/2017	Stanford	100	62	Rice	90	7	55	69
+6	2	8/31/2017	Arizona St	7	37	New Mexico St	73	31	6	68
+7	2	8/31/2017	Arkansas	8	49	Non-FBS Team	131	7	42	56
+8	2	8/31/2017	Central Florida	20	61	Florida Int'l	33	17	44	78
+9	2	8/31/2017	Central Michigan	21	30	Non-FBS Team	131	27	3	57
+10	2	8/31/2017	Cincinnati	22	26	Non-FBS Team	131	14	12	40
+11	2	8/31/2017	Connecticut	27	27	Non-FBS Team	131	20	7	47
+12	2	8/31/2017	Georgia St	38	10	Non-FBS Team	131	17	-7	27
+13	2	8/31/2017	Idaho	42	28	Non-FBS Team	131	6	22	34
+14	2	8/31/2017	Indiana	44	21	Ohio State	80	49	-28	70
+15	2	8/31/2017	Memphis	59	37	Louisiana-Monroe	53	29	8	66
+16	2	8/31/2017	Minnesota	65	17	Buffalo	18	7	10	24
+17	2	8/31/2017	Oklahoma St	83	59	Tulsa	113	24	35	83
+18	2	8/31/2017	Toledo	110	47	Non-FBS Team	131	13	34	60
+19	2	8/31/2017	Utah	117	37	Non-FBS Team	131	16	21	53
+20	2	8/31/2017	Wake Forest	123	51	Non-FBS Team	131	7	44	58
+21	2	9/1/2017	Army	10	64	Non-FBS Team	131	6	58	70
+22	2	9/1/2017	Colorado	25	17	Colorado St	26	3	14	20
+23	2	9/1/2017	Eastern Michigan	30	24	UNC-Charlotte	115	7	17	31
+24	2	9/1/2017	Florida Atlantic	32	19	Navy	69	42	-23	61
+25	2	9/1/2017	Northern Illinois	77	20	Boston College	15	23	-3	43
+26	2	9/1/2017	Rutgers	91	14	Washington	124	30	-16	44
+27	2	9/1/2017	Syracuse	101	50	Non-FBS Team	131	7	43	57
+28	2	9/1/2017	Wisconsin	129	59	Utah St	118	10	49	69
+29	2	9/2/2017	Air Force	1	62	Non-FBS Team	131	0	62	62
+30	2	9/2/2017	Alabama	3	24	Florida St	34	7	17	31
+31	2	9/2/2017	Alabama-Birmingham	4	38	Non-FBS Team	131	7	31	45
+32	2	9/2/2017	Arizona	6	62	Non-FBS Team	131	24	38	86
+33	2	9/2/2017	Auburn	11	41	Georgia Southern	37	7	34	48
+34	2	9/2/2017	Baylor	13	45	Non-FBS Team	131	48	-3	93
+35	2	9/2/2017	Boise St	14	24	Troy	111	13	11	37
+36	2	9/2/2017	Clemson	23	56	Kent St	49	3	53	59
+37	2	9/2/2017	Coastal Carolina	24	38	Massachusetts	58	28	10	66
+38	2	9/2/2017	Duke	28	60	Non-FBS Team	131	7	53	67
+39	2	9/2/2017	East Carolina	29	14	Non-FBS Team	131	34	-20	48
+40	2	9/2/2017	Florida	31	17	Michigan	62	33	-16	50
+41	2	9/2/2017	Fresno St	35	66	Non-FBS Team	131	0	66	66
+42	2	9/2/2017	Georgia	36	31	Appalachian St	5	10	21	41
+43	2	9/2/2017	Hawai`i	40	41	Non-FBS Team	131	18	23	59
+44	2	9/2/2017	Illinois	43	24	Ball St	12	21	3	45
+45	2	9/2/2017	Iowa	45	24	Wyoming	130	3	21	27
+46	2	9/2/2017	Iowa St	46	42	Non-FBS Team	131	24	18	66
+47	2	9/2/2017	Kansas	47	38	Non-FBS Team	131	16	22	54
+48	2	9/2/2017	Kansas St	48	55	Non-FBS Team	131	19	36	74
+49	2	9/2/2017	Louisiana-Lafayette	52	51	Non-FBS Team	131	48	3	99
+50	2	9/2/2017	Louisiana Tech	51	52	Non-FBS Team	131	24	28	76
+51	2	9/2/2017	LSU	55	27	Brigham Young	17	0	27	27
+52	2	9/2/2017	Marshall	56	31	Miami OH	61	26	5	57
+53	2	9/2/2017	Miami FL	60	41	Non-FBS Team	131	13	28	54
+54	2	9/2/2017	Michigan St	63	35	Bowling Green	16	10	25	45
+55	2	9/2/2017	Middle Tennessee St	64	6	Vanderbilt	120	28	-22	34
+56	2	9/2/2017	Mississippi	66	47	South Alabama	95	27	20	74
+57	2	9/2/2017	Mississippi St	67	49	Non-FBS Team	131	0	49	49
+58	2	9/2/2017	Missouri	68	72	Non-FBS Team	131	43	29	115
+59	2	9/2/2017	Nebraska	70	43	Arkansas St	9	36	7	79
+60	2	9/2/2017	New Mexico	72	38	Non-FBS Team	131	14	24	52
+61	2	9/2/2017	North Carolina	74	30	California	19	35	-5	65
+62	2	9/2/2017	North Texas	76	59	Non-FBS Team	131	14	45	73
+63	2	9/2/2017	Northwestern	78	31	Nevada	71	20	11	51
+64	2	9/2/2017	Notre Dame	79	49	Temple	103	16	33	65
+65	2	9/2/2017	Ohio U.	81	59	Non-FBS Team	131	0	59	59
+66	2	9/2/2017	Oklahoma	82	56	UTEP	119	7	49	63
+67	2	9/2/2017	Old Dominion	84	31	Non-FBS Team	131	17	14	48
+68	2	9/2/2017	Oregon	85	77	Non-FBS Team	131	21	56	98
+69	2	9/2/2017	Oregon St	86	35	Non-FBS Team	131	32	3	67
+70	2	9/2/2017	Penn State	87	52	Akron	2	0	52	52
+71	2	9/2/2017	Pittsburgh	88	28	Non-FBS Team	131	21	7	49
+72	2	9/2/2017	Purdue	89	28	Louisville	54	35	-7	63
+73	2	9/2/2017	San Diego St	92	38	Non-FBS Team	131	17	21	55
+74	2	9/2/2017	San José St	93	34	Non-FBS Team	131	13	21	47
+75	2	9/2/2017	SMU	94	58	Non-FBS Team	131	14	44	72
+76	2	9/2/2017	South Carolina	96	35	North Carolina St	75	28	7	63
+77	2	9/2/2017	South Florida	97	31	Non-FBS Team	131	17	14	48
+78	2	9/2/2017	Southern Cal	98	49	Western Michigan	128	31	18	80
+79	2	9/2/2017	Southern Miss	99	17	Kentucky	50	24	-7	41
+80	2	9/2/2017	TCU	102	63	Non-FBS Team	131	0	63	63
+81	2	9/2/2017	Texas	105	41	Maryland	57	51	-10	92
+82	2	9/2/2017	Texas St-San Marcos	107	20	Non-FBS Team	131	11	9	31
+83	2	9/2/2017	Texas Tech	108	56	Non-FBS Team	131	10	46	66
+84	2	9/2/2017	Tulane	112	43	Non-FBS Team	131	14	29	57
+85	2	9/2/2017	UNLV	116	40	Non-FBS Team	131	43	-3	83
+86	2	9/2/2017	Virginia	121	28	Non-FBS Team	131	10	18	38
+87	2	9/2/2017	Washington St	125	31	Non-FBS Team	131	0	31	31
+88	2	9/2/2017	Western Kentucky	127	31	Non-FBS Team	131	17	14	48
+89	2	9/3/2017	UCLA	114	45	Texas A&M	106	44	1	89
+90	2	9/3/2017	West Virginia	126	24	Virginia Tech	122	31	-7	55
+91	2	9/4/2017	Georgia Tech	39	41	Tennessee	104	42	-1	83
+92	3	9/7/2017	Utah St	118	51	Non-FBS Team	131	13	38	64
+93	3	9/8/2017	Non-FBS Team	131	10	Florida Int'l	33	17	-7	27
+94	3	9/8/2017	Purdue	89	44	Ohio U.	81	21	23	65
+95	3	9/8/2017	South Alabama	95	7	Oklahoma St	83	44	-37	51
+96	3	9/9/2017	Akron	2	52	Non-FBS Team	131	3	49	55
+97	3	9/9/2017	Alabama	3	41	Fresno St	35	10	31	51
+98	3	9/9/2017	Appalachian St	5	54	Non-FBS Team	131	7	47	61
+99	3	9/9/2017	Arizona	6	16	Houston	41	19	-3	35
+100	3	9/9/2017	Arizona St	7	20	San Diego St	92	30	-10	50
+101	3	9/9/2017	Arkansas	8	7	TCU	102	28	-21	35
+102	3	9/9/2017	Army	10	21	Buffalo	18	17	4	38
+103	3	9/9/2017	Ball St	12	51	Alabama-Birmingham	4	31	20	82
+104	3	9/9/2017	Baylor	13	10	Texas-San Antonio	109	17	-7	27
+105	3	9/9/2017	Boston College	15	10	Wake Forest	123	34	-24	44
+106	3	9/9/2017	Bowling Green	16	27	Non-FBS Team	131	35	-8	62
+107	3	9/9/2017	Brigham Young	17	13	Utah	117	19	-6	32
+108	3	9/9/2017	California	19	33	Non-FBS Team	131	20	13	53
+109	3	9/9/2017	Clemson	23	14	Auburn	11	6	8	20
+110	3	9/9/2017	Colorado	25	37	Texas St-San Marcos	107	3	34	40
+111	3	9/9/2017	Colorado St	26	38	Non-FBS Team	131	10	28	48
+112	3	9/9/2017	Duke	28	41	Northwestern	78	17	24	58
+113	3	9/9/2017	Georgia Southern	37	12	Non-FBS Team	131	22	-10	34
+114	3	9/9/2017	Georgia Tech	39	37	Non-FBS Team	131	10	27	47
+115	3	9/9/2017	Idaho	42	16	UNLV	116	44	-28	60
+116	3	9/9/2017	Illinois	43	20	Western Kentucky	127	7	13	27
+117	3	9/9/2017	Iowa St	46	41	Iowa	45	44	-3	85
+118	3	9/9/2017	Kansas	47	27	Central Michigan	21	45	-18	72
+119	3	9/9/2017	Kansas St	48	55	UNC-Charlotte	115	7	48	62
+120	3	9/9/2017	Kent St	49	38	Non-FBS Team	131	31	7	69
+121	3	9/9/2017	Kentucky	50	27	Non-FBS Team	131	16	11	43
+122	3	9/9/2017	Louisiana Tech	51	21	Mississippi St	67	57	-36	78
+123	3	9/9/2017	LSU	55	45	Non-FBS Team	131	10	35	55
+124	3	9/9/2017	Maryland	57	63	Non-FBS Team	131	17	46	80
+125	3	9/9/2017	Massachusetts	58	7	Old Dominion	84	17	-10	24
+126	3	9/9/2017	Miami OH	61	31	Non-FBS Team	131	10	21	41
+127	3	9/9/2017	Michigan	62	36	Cincinnati	22	14	22	50
+128	3	9/9/2017	Michigan St	63	28	Western Michigan	128	14	14	42
+129	3	9/9/2017	Mississippi	66	45	Non-FBS Team	131	23	22	68
+130	3	9/9/2017	Missouri	68	13	South Carolina	96	31	-18	44
+131	3	9/9/2017	Navy	69	23	Tulane	112	21	2	44
+132	3	9/9/2017	Nevada	71	24	Toledo	110	37	-13	61
+133	3	9/9/2017	New Mexico	72	28	New Mexico St	73	30	-2	58
+134	3	9/9/2017	North Carolina	74	35	Louisville	54	47	-12	82
+135	3	9/9/2017	North Carolina St	75	37	Marshall	56	20	17	57
+136	3	9/9/2017	Northern Illinois	77	38	Non-FBS Team	131	10	28	48
+137	3	9/9/2017	Notre Dame	79	19	Georgia	36	20	-1	39
+138	3	9/9/2017	Ohio State	80	16	Oklahoma	82	31	-15	47
+139	3	9/9/2017	Oregon	85	42	Nebraska	70	35	7	77
+140	3	9/9/2017	Oregon St	86	14	Minnesota	65	48	-34	62
+141	3	9/9/2017	Penn State	87	33	Pittsburgh	88	14	19	47
+142	3	9/9/2017	Rutgers	91	13	Eastern Michigan	30	16	-3	29
+143	3	9/9/2017	SMU	94	54	North Texas	76	32	22	86
+144	3	9/9/2017	Southern Cal	98	42	Stanford	100	24	18	66
+145	3	9/9/2017	Southern Miss	99	45	Non-FBS Team	131	0	45	45
+146	3	9/9/2017	Syracuse	101	23	Middle Tennessee St	64	30	-7	53
+147	3	9/9/2017	Temple	103	16	Non-FBS Team	131	13	3	29
+148	3	9/9/2017	Tennessee	104	42	Non-FBS Team	131	7	35	49
+149	3	9/9/2017	Texas	105	56	San José St	93	0	56	56
+150	3	9/9/2017	Texas A&M	106	24	Non-FBS Team	131	14	10	38
+151	3	9/9/2017	Troy	111	34	Non-FBS Team	131	7	27	41
+152	3	9/9/2017	Tulsa	113	66	Louisiana-Lafayette	52	42	24	108
+153	3	9/9/2017	UCLA	114	56	Hawai`i	40	23	33	79
+154	3	9/9/2017	UTEP	119	14	Rice	90	31	-17	45
+155	3	9/9/2017	Vanderbilt	120	42	Non-FBS Team	131	0	42	42
+156	3	9/9/2017	Virginia	121	17	Indiana	44	34	-17	51
+157	3	9/9/2017	Virginia Tech	122	27	Non-FBS Team	131	0	27	27
+158	3	9/9/2017	Washington	124	63	Non-FBS Team	131	7	56	70
+159	3	9/9/2017	Washington St	125	47	Boise St	14	44	3	91
+160	3	9/9/2017	West Virginia	126	56	East Carolina	29	20	36	76
+161	3	9/9/2017	Wisconsin	129	31	Florida Atlantic	32	14	17	45
+162	3	9/9/2017	Wyoming	130	27	Non-FBS Team	131	0	27	27
+163	4	9/14/2017	Boise St	14	28	New Mexico	72	14	14	42
+164	4	9/15/2017	South Florida	97	47	Illinois	43	23	24	70
+165	4	9/15/2017	Temple	103	29	Massachusetts	58	21	8	50
+166	4	9/15/2017	UTEP	119	16	Arizona	6	63	-47	79
+167	4	9/16/2017	Akron	2	14	Iowa St	46	41	-27	55
+168	4	9/16/2017	Alabama	3	41	Colorado St	26	23	18	64
+169	4	9/16/2017	Alabama-Birmingham	4	30	Coastal Carolina	24	23	7	53
+170	4	9/16/2017	Arkansas St	9	48	Non-FBS Team	131	3	45	51
+171	4	9/16/2017	Auburn	11	24	Non-FBS Team	131	10	14	34
+172	4	9/16/2017	Ball St	12	28	Non-FBS Team	131	13	15	41
+173	4	9/16/2017	Boston College	15	20	Notre Dame	79	49	-29	69
+174	4	9/16/2017	Brigham Young	17	6	Wisconsin	129	40	-34	46
+175	4	9/16/2017	Buffalo	18	33	Non-FBS Team	131	10	23	43
+176	4	9/16/2017	California	19	27	Mississippi	66	16	11	43
+177	4	9/16/2017	Colorado	25	41	Non-FBS Team	131	21	20	62
+178	4	9/16/2017	Duke	28	34	Baylor	13	20	14	54
+179	4	9/16/2017	East Carolina	29	17	Virginia Tech	122	64	-47	81
+180	4	9/16/2017	Florida	31	26	Tennessee	104	20	6	46
+181	4	9/16/2017	Florida Atlantic	32	45	Non-FBS Team	131	0	45	45
+182	4	9/16/2017	Georgia	36	42	Non-FBS Team	131	14	28	56
+183	4	9/16/2017	Houston	41	38	Rice	90	3	35	41
+184	4	9/16/2017	Iowa	45	31	North Texas	76	14	17	45
+185	4	9/16/2017	Louisiana-Monroe	53	17	Southern Miss	99	28	-11	45
+186	4	9/16/2017	Louisville	54	21	Clemson	23	47	-26	68
+187	4	9/16/2017	Marshall	56	21	Kent St	49	0	21	21
+188	4	9/16/2017	Memphis	59	48	UCLA	114	45	3	93
+189	4	9/16/2017	Miami OH	61	17	Cincinnati	22	21	-4	38
+190	4	9/16/2017	Michigan	62	29	Air Force	1	13	16	42
+191	4	9/16/2017	Minnesota	65	34	Middle Tennessee St	64	3	31	37
+192	4	9/16/2017	Mississippi St	67	37	LSU	55	7	30	44
+193	4	9/16/2017	Missouri	68	3	Purdue	89	35	-32	38
+194	4	9/16/2017	Nebraska	70	17	Northern Illinois	77	21	-4	38
+195	4	9/16/2017	Nevada	71	28	Non-FBS Team	131	30	-2	58
+196	4	9/16/2017	New Mexico St	73	24	Troy	111	27	-3	51
+197	4	9/16/2017	North Carolina St	75	49	Non-FBS Team	131	16	33	65
+198	4	9/16/2017	Northwestern	78	49	Bowling Green	16	7	42	56
+199	4	9/16/2017	Ohio State	80	38	Army	10	7	31	45
+200	4	9/16/2017	Ohio U.	81	42	Kansas	47	30	12	72
+201	4	9/16/2017	Oklahoma	82	56	Tulane	112	14	42	70
+202	4	9/16/2017	Old Dominion	84	23	North Carolina	74	53	-30	76
+203	4	9/16/2017	Penn State	87	56	Georgia St	38	0	56	56
+204	4	9/16/2017	Pittsburgh	88	21	Oklahoma St	83	59	-38	80
+205	4	9/16/2017	Rutgers	91	65	Non-FBS Team	131	0	65	65
+206	4	9/16/2017	San Diego St	92	20	Stanford	100	17	3	37
+207	4	9/16/2017	South Alabama	95	45	Non-FBS Team	131	0	45	45
+208	4	9/16/2017	South Carolina	96	13	Kentucky	50	23	-10	36
+209	4	9/16/2017	Southern Cal	98	27	Texas	105	24	3	51
+210	4	9/16/2017	Syracuse	101	41	Central Michigan	21	17	24	58
+211	4	9/16/2017	TCU	102	56	SMU	94	36	20	92
+212	4	9/16/2017	Texas A&M	106	45	Louisiana-Lafayette	52	21	24	66
+213	4	9/16/2017	Texas St-San Marcos	107	13	Appalachian St	5	20	-7	33
+214	4	9/16/2017	Texas Tech	108	52	Arizona St	7	45	7	97
+215	4	9/16/2017	Texas-San Antonio	109	51	Non-FBS Team	131	17	34	68
+216	4	9/16/2017	Toledo	110	54	Tulsa	113	51	3	105
+217	4	9/16/2017	UNC-Charlotte	115	31	Non-FBS Team	131	35	-4	66
+218	4	9/16/2017	Utah	117	54	San José St	93	16	38	70
+219	4	9/16/2017	Vanderbilt	120	14	Kansas St	48	7	7	21
+220	4	9/16/2017	Virginia	121	38	Connecticut	27	18	20	56
+221	4	9/16/2017	Wake Forest	123	46	Utah St	118	10	36	56
+222	4	9/16/2017	Washington	124	48	Fresno St	35	16	32	64
+223	4	9/16/2017	Washington St	125	52	Oregon St	86	23	29	75
+224	4	9/16/2017	West Virginia	126	59	Non-FBS Team	131	16	43	75
+225	4	9/16/2017	Western Kentucky	127	22	Louisiana Tech	51	23	-1	45
+226	4	9/16/2017	Western Michigan	128	37	Idaho	42	28	9	65
+227	4	9/16/2017	Wyoming	130	13	Oregon	85	49	-36	62
+228	5	9/21/2017	South Florida	97	43	Temple	103	7	36	50
+229	5	9/22/2017	Arizona	6	24	Utah	117	30	-6	54
+230	5	9/22/2017	Boise St	14	23	Virginia	121	42	-19	65
+231	5	9/23/2017	Air Force	1	24	San Diego St	92	28	-4	52
+232	5	9/23/2017	Appalachian St	5	19	Wake Forest	123	20	-1	39
+233	5	9/23/2017	Arizona St	7	37	Oregon	85	35	2	72
+234	5	9/23/2017	Baylor	13	41	Oklahoma	82	49	-8	90
+235	5	9/23/2017	Buffalo	18	34	Florida Atlantic	32	31	3	65
+236	5	9/23/2017	California	19	20	Southern Cal	98	30	-10	50
+237	5	9/23/2017	Central Michigan	21	14	Miami OH	61	31	-17	45
+238	5	9/23/2017	Clemson	23	34	Boston College	15	7	27	41
+239	5	9/23/2017	Coastal Carolina	24	10	Non-FBS Team	131	52	-42	62
+240	5	9/23/2017	Colorado	25	10	Washington	124	37	-27	47
+241	5	9/23/2017	Eastern Michigan	30	20	Ohio U.	81	27	-7	47
+242	5	9/23/2017	Florida St	34	21	North Carolina St	75	27	-6	48
+243	5	9/23/2017	Georgia	36	31	Mississippi St	67	3	28	34
+244	5	9/23/2017	Georgia Tech	39	35	Pittsburgh	88	17	18	52
+245	5	9/23/2017	Houston	41	24	Texas Tech	108	27	-3	51
+246	5	9/23/2017	Indiana	44	52	Georgia Southern	37	17	35	69
+247	5	9/23/2017	Iowa	45	19	Penn State	87	21	-2	40
+248	5	9/23/2017	Kansas	47	34	West Virginia	126	56	-22	90
+249	5	9/23/2017	Kentucky	50	27	Florida	31	28	-1	55
+250	5	9/23/2017	Louisiana-Lafayette	52	50	Louisiana-Monroe	53	56	-6	106
+251	5	9/23/2017	Louisville	54	42	Kent St	49	3	39	45
+252	5	9/23/2017	LSU	55	35	Syracuse	101	26	9	61
+253	5	9/23/2017	Maryland	57	10	Central Florida	20	38	-28	48
+254	5	9/23/2017	Memphis	59	44	Non-FBS Team	131	31	13	75
+255	5	9/23/2017	Miami FL	60	52	Toledo	110	30	22	82
+256	5	9/23/2017	Michigan St	63	18	Notre Dame	79	38	-20	56
+257	5	9/23/2017	Middle Tennessee St	64	24	Bowling Green	16	13	11	37
+258	5	9/23/2017	Missouri	68	14	Auburn	11	51	-37	65
+259	5	9/23/2017	Navy	69	42	Cincinnati	22	32	10	74
+260	5	9/23/2017	Nebraska	70	27	Rutgers	91	17	10	44
+261	5	9/23/2017	New Mexico St	73	41	UTEP	119	14	27	55
+262	5	9/23/2017	North Carolina	74	17	Duke	28	27	-10	44
+263	5	9/23/2017	North Texas	76	46	Alabama-Birmingham	4	43	3	89
+264	5	9/23/2017	Ohio State	80	54	UNLV	116	21	33	75
+265	5	9/23/2017	Oklahoma St	83	31	TCU	102	44	-13	75
+266	5	9/23/2017	Purdue	89	10	Michigan	62	28	-18	38
+267	5	9/23/2017	Rice	90	7	Florida Int'l	33	13	-6	20
+268	5	9/23/2017	San José St	93	10	Utah St	118	61	-51	71
+269	5	9/23/2017	SMU	94	44	Arkansas St	9	21	23	65
+270	5	9/23/2017	South Alabama	95	23	Idaho	42	29	-6	52
+271	5	9/23/2017	South Carolina	96	17	Louisiana Tech	51	16	1	33
+272	5	9/23/2017	Stanford	100	58	UCLA	114	34	24	92
+273	5	9/23/2017	Tennessee	104	17	Massachusetts	58	13	4	30
+274	5	9/23/2017	Texas A&M	106	50	Arkansas	8	43	7	93
+275	5	9/23/2017	Texas St-San Marcos	107	14	Texas-San Antonio	109	44	-30	58
+276	5	9/23/2017	Troy	111	22	Akron	2	17	5	39
+277	5	9/23/2017	Tulane	112	21	Army	10	17	4	38
+278	5	9/23/2017	Tulsa	113	13	New Mexico	72	16	-3	29
+279	5	9/23/2017	UNC-Charlotte	115	0	Georgia St	38	28	-28	28
+280	5	9/23/2017	Vanderbilt	120	0	Alabama	3	59	-59	59
+281	5	9/23/2017	Virginia Tech	122	38	Old Dominion	84	0	38	38
+282	5	9/23/2017	Washington St	125	45	Nevada	71	7	38	52
+283	5	9/23/2017	Western Kentucky	127	33	Ball St	12	21	12	54
+284	5	9/23/2017	Western Michigan	128	49	Non-FBS Team	131	14	35	63
+285	5	9/23/2017	Wyoming	130	28	Hawai`i	40	21	7	49
+286	5	9/24/2017	Connecticut	27	38	East Carolina	29	41	-3	79
+287	6	9/28/2017	Iowa St	46	7	Texas	105	17	-10	24
+288	6	9/29/2017	Duke	28	6	Miami FL	60	31	-25	37
+289	6	9/29/2017	Illinois	43	6	Nebraska	70	28	-22	34
+290	6	9/29/2017	Utah St	118	40	Brigham Young	17	24	16	64
+291	6	9/29/2017	Washington St	125	30	Southern Cal	98	27	3	57
+292	6	9/30/2017	Alabama	3	66	Mississippi	66	3	63	69
+293	6	9/30/2017	Arkansas	8	42	New Mexico St	73	24	18	66
+294	6	9/30/2017	Army	10	35	UTEP	119	21	14	56
+295	6	9/30/2017	Auburn	11	49	Mississippi St	67	10	39	59
+296	6	9/30/2017	Boston College	15	28	Central Michigan	21	8	20	36
+297	6	9/30/2017	Bowling Green	16	23	Akron	2	34	-11	57
+298	6	9/30/2017	Central Florida	20	40	Memphis	59	13	27	53
+299	6	9/30/2017	Cincinnati	22	21	Marshall	56	38	-17	59
+300	6	9/30/2017	East Carolina	29	31	South Florida	97	61	-30	92
+301	6	9/30/2017	Florida	31	38	Vanderbilt	120	24	14	62
+302	6	9/30/2017	Florida Atlantic	32	38	Middle Tennessee St	64	20	18	58
+303	6	9/30/2017	Florida Int'l	33	30	UNC-Charlotte	115	29	1	59
+304	6	9/30/2017	Fresno St	35	41	Nevada	71	21	20	62
+305	6	9/30/2017	Georgia Tech	39	33	North Carolina	74	7	26	40
+306	6	9/30/2017	Hawai`i	40	21	Colorado St	26	51	-30	72
+307	6	9/30/2017	Kansas St	48	33	Baylor	13	20	13	53
+308	6	9/30/2017	Kent St	49	13	Buffalo	18	27	-14	40
+309	6	9/30/2017	Kentucky	50	24	Eastern Michigan	30	20	4	44
+310	6	9/30/2017	Louisiana Tech	51	34	South Alabama	95	16	18	50
+311	6	9/30/2017	Louisiana-Monroe	53	51	Coastal Carolina	24	43	8	94
+312	6	9/30/2017	Louisville	54	55	Non-FBS Team	131	10	45	65
+313	6	9/30/2017	LSU	55	21	Troy	111	24	-3	45
+314	6	9/30/2017	Massachusetts	58	50	Ohio U.	81	58	-8	108
+315	6	9/30/2017	Michigan St	63	17	Iowa	45	10	7	27
+316	6	9/30/2017	Minnesota	65	24	Maryland	57	31	-7	55
+317	6	9/30/2017	New Mexico	72	56	Air Force	1	38	18	94
+318	6	9/30/2017	North Carolina St	75	33	Syracuse	101	25	8	58
+319	6	9/30/2017	Notre Dame	79	52	Miami OH	61	17	35	69
+320	6	9/30/2017	Oregon	85	45	California	19	24	21	69
+321	6	9/30/2017	Oregon St	86	7	Washington	124	42	-35	49
+322	6	9/30/2017	Penn State	87	45	Indiana	44	14	31	59
+323	6	9/30/2017	Pittsburgh	88	42	Rice	90	10	32	52
+324	6	9/30/2017	Rutgers	91	0	Ohio State	80	56	-56	56
+325	6	9/30/2017	San Diego St	92	34	Northern Illinois	77	28	6	62
+326	6	9/30/2017	SMU	94	49	Connecticut	27	28	21	77
+327	6	9/30/2017	Southern Miss	99	28	North Texas	76	43	-15	71
+328	6	9/30/2017	Stanford	100	34	Arizona St	7	24	10	58
+329	6	9/30/2017	Temple	103	13	Houston	41	20	-7	33
+330	6	9/30/2017	Tennessee	104	0	Georgia	36	41	-41	41
+331	6	9/30/2017	Texas A&M	106	24	South Carolina	96	17	7	41
+332	6	9/30/2017	Texas Tech	108	34	Oklahoma St	83	41	-7	75
+333	6	9/30/2017	Tulsa	113	21	Navy	69	31	-10	52
+334	6	9/30/2017	UCLA	114	27	Colorado	25	23	4	50
+335	6	9/30/2017	UNLV	116	41	San José St	93	13	28	54
+336	6	9/30/2017	Virginia Tech	122	17	Clemson	23	31	-14	48
+337	6	9/30/2017	Wake Forest	123	19	Florida St	34	26	-7	45
+338	6	9/30/2017	Western Michigan	128	55	Ball St	12	3	52	58
+339	6	9/30/2017	Wisconsin	129	33	Northwestern	78	24	9	57
+340	6	9/30/2017	Wyoming	130	45	Texas St-San Marcos	107	10	35	55
+341	6	10/4/2017	Georgia Southern	37	25	Arkansas St	9	43	-18	68
+342	7	10/5/2017	North Carolina St	75	39	Louisville	54	25	14	64
+343	7	10/6/2017	Brigham Young	17	7	Boise St	14	24	-17	31
+344	7	10/6/2017	Connecticut	27	31	Memphis	59	70	-39	101
+345	7	10/7/2017	Akron	2	31	Ball St	12	3	28	34
+346	7	10/7/2017	Alabama-Birmingham	4	23	Louisiana Tech	51	22	1	45
+347	7	10/7/2017	Appalachian St	5	45	New Mexico St	73	31	14	76
+348	7	10/7/2017	Auburn	11	44	Mississippi	66	23	21	67
+349	7	10/7/2017	Boston College	15	10	Virginia Tech	122	23	-13	33
+350	7	10/7/2017	Buffalo	18	68	Western Michigan	128	71	-3	139
+351	7	10/7/2017	Cincinnati	22	23	Central Florida	20	51	-28	74
+352	7	10/7/2017	Clemson	23	28	Wake Forest	123	14	14	42
+353	7	10/7/2017	Coastal Carolina	24	21	Georgia St	38	27	-6	48
+354	7	10/7/2017	Colorado	25	42	Arizona	6	45	-3	87
+355	7	10/7/2017	East Carolina	29	10	Temple	103	34	-24	44
+356	7	10/7/2017	Florida	31	16	LSU	55	17	-1	33
+357	7	10/7/2017	Florida St	34	20	Miami FL	60	24	-4	44
+358	7	10/7/2017	Houston	41	35	SMU	94	22	13	57
+359	7	10/7/2017	Idaho	42	16	Louisiana-Lafayette	52	21	-5	37
+360	7	10/7/2017	Indiana	44	27	Non-FBS Team	131	0	27	27
+361	7	10/7/2017	Iowa	45	45	Illinois	43	16	29	61
+362	7	10/7/2017	Kansas	47	19	Texas Tech	108	65	-46	84
+363	7	10/7/2017	Kentucky	50	40	Missouri	68	34	6	74
+364	7	10/7/2017	Miami OH	61	29	Bowling Green	16	37	-8	66
+365	7	10/7/2017	Michigan	62	10	Michigan St	63	14	-4	24
+366	7	10/7/2017	Middle Tennessee St	64	37	Florida Int'l	33	17	20	54
+367	7	10/7/2017	Navy	69	48	Air Force	1	45	3	93
+368	7	10/7/2017	Nebraska	70	17	Wisconsin	129	38	-21	55
+369	7	10/7/2017	Nevada	71	35	Hawai`i	40	21	14	56
+370	7	10/7/2017	North Carolina	74	10	Notre Dame	79	33	-23	43
+371	7	10/7/2017	Northern Illinois	77	24	Kent St	49	3	21	27
+372	7	10/7/2017	Northwestern	78	7	Penn State	87	31	-24	38
+373	7	10/7/2017	Ohio State	80	62	Maryland	57	14	48	76
+374	7	10/7/2017	Ohio U.	81	23	Central Michigan	21	26	-3	49
+375	7	10/7/2017	Oklahoma	82	31	Iowa St	46	38	-7	69
+376	7	10/7/2017	Old Dominion	84	28	Florida Atlantic	32	58	-30	86
+377	7	10/7/2017	Oregon	85	10	Washington St	125	33	-23	43
+378	7	10/7/2017	Purdue	89	31	Minnesota	65	17	14	48
+379	7	10/7/2017	Rice	90	12	Army	10	49	-37	61
+380	7	10/7/2017	San José St	93	10	Fresno St	35	27	-17	37
+381	7	10/7/2017	South Carolina	96	48	Arkansas	8	22	26	70
+382	7	10/7/2017	Southern Cal	98	38	Oregon St	86	10	28	48
+383	7	10/7/2017	Syracuse	101	27	Pittsburgh	88	24	3	51
+384	7	10/7/2017	TCU	102	31	West Virginia	126	24	7	55
+385	7	10/7/2017	Texas	105	40	Kansas St	48	34	6	74
+386	7	10/7/2017	Texas A&M	106	19	Alabama	3	27	-8	46
+387	7	10/7/2017	Texas St-San Marcos	107	27	Louisiana-Monroe	53	45	-18	72
+388	7	10/7/2017	Texas-San Antonio	109	29	Southern Miss	99	31	-2	60
+389	7	10/7/2017	Toledo	110	20	Eastern Michigan	30	15	5	35
+390	7	10/7/2017	Tulane	112	62	Tulsa	113	28	34	90
+391	7	10/7/2017	UNC-Charlotte	115	3	Marshall	56	14	-11	17
+392	7	10/7/2017	UNLV	116	10	San Diego St	92	41	-31	51
+393	7	10/7/2017	Utah	117	20	Stanford	100	23	-3	43
+394	7	10/7/2017	Utah St	118	14	Colorado St	26	27	-13	41
+395	7	10/7/2017	UTEP	119	14	Western Kentucky	127	15	-1	29
+396	7	10/7/2017	Vanderbilt	120	14	Georgia	36	45	-31	59
+397	7	10/7/2017	Virginia	121	28	Duke	28	21	7	49
+398	7	10/7/2017	Washington	124	38	California	19	7	31	45
+399	7	10/11/2017	Troy	111	8	South Alabama	95	19	-11	27
+400	8	10/12/2017	Louisiana-Lafayette	52	24	Texas St-San Marcos	107	7	17	31
+401	8	10/13/2017	California	19	37	Washington St	125	3	34	40
+402	8	10/13/2017	Syracuse	101	27	Clemson	23	24	3	51
+403	8	10/14/2017	Air Force	1	34	UNLV	116	30	4	64
+404	8	10/14/2017	Alabama	3	41	Arkansas	8	9	32	50
+405	8	10/14/2017	Alabama-Birmingham	4	25	Middle Tennessee St	64	23	2	48
+406	8	10/14/2017	Arizona	6	47	UCLA	114	30	17	77
+407	8	10/14/2017	Arizona St	7	13	Washington	124	7	6	20
+408	8	10/14/2017	Arkansas St	9	51	Coastal Carolina	24	17	34	68
+409	8	10/14/2017	Army	10	28	Eastern Michigan	30	27	1	55
+410	8	10/14/2017	Bowling Green	16	30	Ohio U.	81	48	-18	78
+411	8	10/14/2017	Buffalo	18	13	Northern Illinois	77	14	-1	27
+412	8	10/14/2017	Central Florida	20	63	East Carolina	29	21	42	84
+413	8	10/14/2017	Central Michigan	21	10	Toledo	110	30	-20	40
+414	8	10/14/2017	Colorado St	26	44	Nevada	71	42	2	86
+415	8	10/14/2017	Duke	28	10	Florida St	34	17	-7	27
+416	8	10/14/2017	Florida	31	17	Texas A&M	106	19	-2	36
+417	8	10/14/2017	Florida Int'l	33	23	Tulane	112	10	13	33
+418	8	10/14/2017	Fresno St	35	38	New Mexico	72	0	38	38
+419	8	10/14/2017	Georgia	36	53	Missouri	68	28	25	81
+420	8	10/14/2017	Georgia Southern	37	27	New Mexico St	73	35	-8	62
+421	8	10/14/2017	Hawai`i	40	37	San José St	93	26	11	63
+422	8	10/14/2017	Idaho	42	20	Appalachian St	5	23	-3	43
+423	8	10/14/2017	Illinois	43	24	Rutgers	91	35	-11	59
+424	8	10/14/2017	Indiana	44	20	Michigan	62	27	-7	47
+425	8	10/14/2017	Iowa St	46	45	Kansas	47	0	45	45
+426	8	10/14/2017	Kansas St	48	6	TCU	102	26	-20	32
+427	8	10/14/2017	Kent St	49	17	Miami OH	61	14	3	31
+428	8	10/14/2017	Louisiana-Monroe	53	37	Georgia St	38	47	-10	84
+429	8	10/14/2017	Louisville	54	42	Boston College	15	45	-3	87
+430	8	10/14/2017	LSU	55	27	Auburn	11	23	4	50
+431	8	10/14/2017	Marshall	56	35	Old Dominion	84	3	32	38
+432	8	10/14/2017	Maryland	57	21	Northwestern	78	37	-16	58
+433	8	10/14/2017	Memphis	59	30	Navy	69	27	3	57
+434	8	10/14/2017	Miami FL	60	25	Georgia Tech	39	24	1	49
+435	8	10/14/2017	Minnesota	65	27	Michigan St	63	30	-3	57
+436	8	10/14/2017	Mississippi	66	57	Vanderbilt	120	35	22	92
+437	8	10/14/2017	Mississippi St	67	35	Brigham Young	17	10	25	45
+438	8	10/14/2017	Nebraska	70	14	Ohio State	80	56	-42	70
+439	8	10/14/2017	North Carolina	74	14	Virginia	121	20	-6	34
+440	8	10/14/2017	North Texas	76	29	Texas-San Antonio	109	26	3	55
+441	8	10/14/2017	Oklahoma St	83	59	Baylor	13	16	43	75
+442	8	10/14/2017	Oregon St	86	33	Colorado	25	36	-3	69
+443	8	10/14/2017	Pittsburgh	88	17	North Carolina St	75	35	-18	52
+444	8	10/14/2017	San Diego St	92	14	Boise St	14	31	-17	45
+445	8	10/14/2017	South Florida	97	33	Cincinnati	22	3	30	36
+446	8	10/14/2017	Southern Cal	98	28	Utah	117	27	1	55
+447	8	10/14/2017	Southern Miss	99	24	UTEP	119	0	24	24
+448	8	10/14/2017	Stanford	100	49	Oregon	85	7	42	56
+449	8	10/14/2017	Temple	103	24	Connecticut	27	28	-4	52
+450	8	10/14/2017	Tennessee	104	9	South Carolina	96	15	-6	24
+451	8	10/14/2017	Texas	105	24	Oklahoma	82	29	-5	53
+452	8	10/14/2017	Tulsa	113	45	Houston	41	17	28	62
+453	8	10/14/2017	Utah St	118	23	Wyoming	130	28	-5	51
+454	8	10/14/2017	West Virginia	126	46	Texas Tech	108	35	11	81
+455	8	10/14/2017	Western Kentucky	127	45	UNC-Charlotte	115	14	31	59
+456	8	10/14/2017	Wisconsin	129	17	Purdue	89	9	8	26
+457	8	10/15/2017	Western Michigan	128	13	Akron	2	14	-1	27
+458	9	10/19/2017	Arkansas St	9	47	Louisiana-Lafayette	52	3	44	50
+459	9	10/19/2017	Houston	41	38	Memphis	59	42	-4	80
+460	9	10/20/2017	Middle Tennessee St	64	10	Marshall	56	38	-28	48
+461	9	10/20/2017	Nevada	71	42	Air Force	1	45	-3	87
+462	9	10/20/2017	New Mexico	72	24	Colorado St	26	27	-3	51
+463	9	10/20/2017	Old Dominion	84	31	Western Kentucky	127	35	-4	66
+464	9	10/21/2017	Alabama	3	45	Tennessee	104	7	38	52
+465	9	10/21/2017	Appalachian St	5	37	Coastal Carolina	24	29	8	66
+466	9	10/21/2017	Arkansas	8	20	Auburn	11	52	-32	72
+467	9	10/21/2017	Army	10	31	Temple	103	28	3	59
+468	9	10/21/2017	Ball St	12	9	Central Michigan	21	56	-47	65
+469	9	10/21/2017	Baylor	13	36	West Virginia	126	38	-2	74
+470	9	10/21/2017	Boise St	14	24	Wyoming	130	14	10	38
+471	9	10/21/2017	Bowling Green	16	17	Northern Illinois	77	48	-31	65
+472	9	10/21/2017	California	19	44	Arizona	6	45	-1	89
+473	9	10/21/2017	Cincinnati	22	28	SMU	94	31	-3	59
+474	9	10/21/2017	Connecticut	27	20	Tulsa	113	14	6	34
+475	9	10/21/2017	Duke	28	17	Pittsburgh	88	24	-7	41
+476	9	10/21/2017	East Carolina	29	33	Brigham Young	17	17	16	50
+477	9	10/21/2017	Eastern Michigan	30	17	Western Michigan	128	20	-3	37
+478	9	10/21/2017	Florida Atlantic	32	69	North Texas	76	31	38	100
+479	9	10/21/2017	Florida St	34	28	Louisville	54	31	-3	59
+480	9	10/21/2017	Georgia St	38	10	Troy	111	34	-24	44
+481	9	10/21/2017	Georgia Tech	39	38	Wake Forest	123	24	14	62
+482	9	10/21/2017	Kansas St	48	35	Oklahoma	82	42	-7	77
+483	9	10/21/2017	Louisiana Tech	51	27	Southern Miss	99	34	-7	61
+484	9	10/21/2017	Massachusetts	58	55	Georgia Southern	37	20	35	75
+485	9	10/21/2017	Miami FL	60	27	Syracuse	101	19	8	46
+486	9	10/21/2017	Miami OH	61	24	Buffalo	18	14	10	38
+487	9	10/21/2017	Michigan St	63	17	Indiana	44	9	8	26
+488	9	10/21/2017	Minnesota	65	24	Illinois	43	17	7	41
+489	9	10/21/2017	Mississippi	66	24	LSU	55	40	-16	64
+490	9	10/21/2017	Mississippi St	67	45	Kentucky	50	7	38	52
+491	9	10/21/2017	Missouri	68	68	Idaho	42	21	47	89
+492	9	10/21/2017	Navy	69	21	Central Florida	20	31	-10	52
+493	9	10/21/2017	Northwestern	78	17	Iowa	45	10	7	27
+494	9	10/21/2017	Notre Dame	79	49	Southern Cal	98	14	35	63
+495	9	10/21/2017	Ohio U.	81	48	Kent St	49	3	45	51
+496	9	10/21/2017	Penn State	87	42	Michigan	62	13	29	55
+497	9	10/21/2017	Rutgers	91	14	Purdue	89	12	2	26
+498	9	10/21/2017	San Diego St	92	3	Fresno St	35	27	-24	30
+499	9	10/21/2017	South Alabama	95	33	Louisiana-Monroe	53	23	10	56
+500	9	10/21/2017	TCU	102	43	Kansas	47	0	43	43
+501	9	10/21/2017	Texas	105	10	Oklahoma St	83	13	-3	23
+502	9	10/21/2017	Texas Tech	108	13	Iowa St	46	31	-18	44
+503	9	10/21/2017	Texas-San Antonio	109	20	Rice	90	7	13	27
+504	9	10/21/2017	Toledo	110	48	Akron	2	21	27	69
+505	9	10/21/2017	Tulane	112	28	South Florida	97	34	-6	62
+506	9	10/21/2017	UCLA	114	31	Oregon	85	14	17	45
+507	9	10/21/2017	UNC-Charlotte	115	25	Alabama-Birmingham	4	24	1	49
+508	9	10/21/2017	UNLV	116	28	Utah St	118	52	-24	80
+509	9	10/21/2017	Utah	117	10	Arizona St	7	30	-20	40
+510	9	10/21/2017	Virginia	121	10	Boston College	15	41	-31	51
+511	9	10/21/2017	Virginia Tech	122	59	North Carolina	74	7	52	66
+512	9	10/21/2017	Washington St	125	28	Colorado	25	0	28	28
+513	9	10/21/2017	Wisconsin	129	38	Maryland	57	13	25	51
+514	10	10/26/2017	Ball St	12	17	Toledo	110	58	-41	75
+515	10	10/26/2017	Georgia St	38	21	South Alabama	95	13	8	34
+516	10	10/26/2017	Northern Illinois	77	30	Eastern Michigan	30	27	3	57
+517	10	10/26/2017	Oregon St	86	14	Stanford	100	15	-1	29
+518	10	10/27/2017	Boston College	15	35	Florida St	34	3	32	38
+519	10	10/27/2017	Memphis	59	56	Tulane	112	26	30	82
+520	10	10/27/2017	SMU	94	38	Tulsa	113	34	4	72
+521	10	10/28/2017	Akron	2	21	Buffalo	18	20	1	41
+522	10	10/28/2017	Arizona	6	58	Washington St	125	37	21	95
+523	10	10/28/2017	Arizona St	7	17	Southern Cal	98	48	-31	65
+524	10	10/28/2017	Baylor	13	7	Texas	105	38	-31	45
+525	10	10/28/2017	Brigham Young	17	41	San José St	93	20	21	61
+526	10	10/28/2017	Central Florida	20	73	Non-FBS Team	131	33	40	106
+527	10	10/28/2017	Clemson	23	24	Georgia Tech	39	10	14	34
+528	10	10/28/2017	Coastal Carolina	24	7	Texas St-San Marcos	107	27	-20	34
+529	10	10/28/2017	Colorado	25	44	California	19	28	16	72
+530	10	10/28/2017	Colorado St	26	28	Air Force	1	45	-17	73
+531	10	10/28/2017	Connecticut	27	12	Missouri	68	52	-40	64
+532	10	10/28/2017	Florida	31	7	Georgia	36	42	-35	49
+533	10	10/28/2017	Fresno St	35	16	UNLV	116	26	-10	42
+534	10	10/28/2017	Hawai`i	40	7	San Diego St	92	28	-21	35
+535	10	10/28/2017	Idaho	42	31	Louisiana-Monroe	53	23	8	54
+536	10	10/28/2017	Illinois	43	10	Wisconsin	129	24	-14	34
+537	10	10/28/2017	Iowa	45	17	Minnesota	65	10	7	27
+538	10	10/28/2017	Iowa St	46	14	TCU	102	7	7	21
+539	10	10/28/2017	Kansas	47	20	Kansas St	48	30	-10	50
+540	10	10/28/2017	Kentucky	50	29	Tennessee	104	26	3	55
+541	10	10/28/2017	Marshall	56	30	Florida Int'l	33	41	-11	71
+542	10	10/28/2017	Maryland	57	42	Indiana	44	39	3	81
+543	10	10/28/2017	Massachusetts	58	30	Appalachian St	5	27	3	57
+544	10	10/28/2017	Michigan	62	35	Rutgers	91	14	21	49
+545	10	10/28/2017	Mississippi	66	37	Arkansas	8	38	-1	75
+546	10	10/28/2017	New Mexico St	73	21	Arkansas St	9	37	-16	58
+547	10	10/28/2017	North Carolina	74	19	Miami FL	60	24	-5	43
+548	10	10/28/2017	North Texas	76	45	Old Dominion	84	38	7	83
+549	10	10/28/2017	Northwestern	78	39	Michigan St	63	31	8	70
+550	10	10/28/2017	Notre Dame	79	35	North Carolina St	75	14	21	49
+551	10	10/28/2017	Ohio State	80	39	Penn State	87	38	1	77
+552	10	10/28/2017	Oklahoma	82	49	Texas Tech	108	27	22	76
+553	10	10/28/2017	Oregon	85	41	Utah	117	20	21	61
+554	10	10/28/2017	Pittsburgh	88	31	Virginia	121	14	17	45
+555	10	10/28/2017	Purdue	89	24	Nebraska	70	25	-1	49
+556	10	10/28/2017	Rice	90	28	Louisiana Tech	51	42	-14	70
+557	10	10/28/2017	South Carolina	96	34	Vanderbilt	120	27	7	61
+558	10	10/28/2017	South Florida	97	24	Houston	41	28	-4	52
+559	10	10/28/2017	Southern Miss	99	12	Alabama-Birmingham	4	30	-18	42
+560	10	10/28/2017	Texas A&M	106	14	Mississippi St	67	35	-21	49
+561	10	10/28/2017	Troy	111	38	Georgia Southern	37	16	22	54
+562	10	10/28/2017	Utah St	118	14	Boise St	14	41	-27	55
+563	10	10/28/2017	UTEP	119	14	Texas-San Antonio	109	31	-17	45
+564	10	10/28/2017	Virginia Tech	122	24	Duke	28	3	21	27
+565	10	10/28/2017	Wake Forest	123	42	Louisville	54	32	10	74
+566	10	10/28/2017	Washington	124	44	UCLA	114	23	21	67
+567	10	10/28/2017	West Virginia	126	39	Oklahoma St	83	50	-11	89
+568	10	10/28/2017	Western Kentucky	127	28	Florida Atlantic	32	42	-14	70
+569	10	10/28/2017	Wyoming	130	42	New Mexico	72	3	39	45
+570	10	10/31/2017	Kent St	49	16	Bowling Green	16	44	-28	60
+571	10	10/31/2017	Ohio U.	81	45	Miami OH	61	28	17	73
+572	10	11/1/2017	Western Michigan	128	28	Central Michigan	21	35	-7	63
+573	11	11/2/2017	Eastern Michigan	30	56	Ball St	12	14	42	70
+574	11	11/2/2017	Temple	103	34	Navy	69	26	8	60
+575	11	11/2/2017	Toledo	110	27	Northern Illinois	77	17	10	44
+576	11	11/2/2017	Troy	111	24	Idaho	42	21	3	45
+577	11	11/3/2017	Florida Atlantic	32	30	Marshall	56	25	5	55
+578	11	11/3/2017	Tulsa	113	14	Memphis	59	41	-27	55
+579	11	11/3/2017	Utah	117	48	UCLA	114	17	31	65
+580	11	11/4/2017	Air Force	1	0	Army	10	21	-21	21
+581	11	11/4/2017	Alabama	3	24	LSU	55	10	14	34
+582	11	11/4/2017	Alabama-Birmingham	4	52	Rice	90	21	31	73
+583	11	11/4/2017	Arizona St	7	41	Colorado	25	30	11	71
+584	11	11/4/2017	Arkansas	8	39	Coastal Carolina	24	38	1	77
+585	11	11/4/2017	Boise St	14	41	Nevada	71	14	27	55
+586	11	11/4/2017	California	19	37	Oregon St	86	23	14	60
+587	11	11/4/2017	Connecticut	27	20	South Florida	97	37	-17	57
+588	11	11/4/2017	Florida Int'l	33	14	Texas-San Antonio	109	7	7	21
+589	11	11/4/2017	Florida St	34	27	Syracuse	101	24	3	51
+590	11	11/4/2017	Fresno St	35	20	Brigham Young	17	13	7	33
+591	11	11/4/2017	Georgia	36	24	South Carolina	96	10	14	34
+592	11	11/4/2017	Georgia Southern	37	17	Georgia St	38	21	-4	38
+593	11	11/4/2017	Houston	41	52	East Carolina	29	27	25	79
+594	11	11/4/2017	Indiana	44	17	Wisconsin	129	45	-28	62
+595	11	11/4/2017	Iowa	45	55	Ohio State	80	24	31	79
+596	11	11/4/2017	Kansas	47	9	Baylor	13	38	-29	47
+597	11	11/4/2017	Kentucky	50	34	Mississippi	66	37	-3	71
+598	11	11/4/2017	Louisiana Tech	51	23	North Texas	76	24	-1	47
+599	11	11/4/2017	Louisiana-Monroe	53	52	Appalachian St	5	45	7	97
+600	11	11/4/2017	Miami FL	60	28	Virginia Tech	122	10	18	38
+601	11	11/4/2017	Michigan	62	33	Minnesota	65	10	23	43
+602	11	11/4/2017	Michigan St	63	27	Penn State	87	24	3	51
+603	11	11/4/2017	Middle Tennessee St	64	30	UTEP	119	3	27	33
+604	11	11/4/2017	Mississippi St	67	34	Massachusetts	58	23	11	57
+605	11	11/4/2017	Missouri	68	45	Florida	31	16	29	61
+606	11	11/4/2017	Nebraska	70	24	Northwestern	78	31	-7	55
+607	11	11/4/2017	New Mexico	72	10	Utah St	118	24	-14	34
+608	11	11/4/2017	North Carolina St	75	31	Clemson	23	38	-7	69
+609	11	11/4/2017	Notre Dame	79	48	Wake Forest	123	37	11	85
+610	11	11/4/2017	Oklahoma St	83	52	Oklahoma	82	62	-10	114
+611	11	11/4/2017	Old Dominion	84	6	UNC-Charlotte	115	0	6	6
+612	11	11/4/2017	Purdue	89	29	Illinois	43	10	19	39
+613	11	11/4/2017	Rutgers	91	31	Maryland	57	24	7	55
+614	11	11/4/2017	San José St	93	7	San Diego St	92	52	-45	59
+615	11	11/4/2017	SMU	94	24	Central Florida	20	31	-7	55
+616	11	11/4/2017	South Alabama	95	14	Louisiana-Lafayette	52	19	-5	33
+617	11	11/4/2017	Southern Cal	98	49	Arizona	6	35	14	84
+618	11	11/4/2017	TCU	102	24	Texas	105	7	17	31
+619	11	11/4/2017	Tennessee	104	24	Southern Miss	99	10	14	34
+620	11	11/4/2017	Texas A&M	106	27	Auburn	11	42	-15	69
+621	11	11/4/2017	Texas St-San Marcos	107	35	New Mexico St	73	45	-10	80
+622	11	11/4/2017	Texas Tech	108	35	Kansas St	48	42	-7	77
+623	11	11/4/2017	Tulane	112	16	Cincinnati	22	17	-1	33
+624	11	11/4/2017	UNLV	116	31	Hawai`i	40	23	8	54
+625	11	11/4/2017	Vanderbilt	120	31	Western Kentucky	127	17	14	48
+626	11	11/4/2017	Virginia	121	40	Georgia Tech	39	36	4	76
+627	11	11/4/2017	Washington	124	38	Oregon	85	3	35	41
+628	11	11/4/2017	Washington St	125	24	Stanford	100	21	3	45
+629	11	11/4/2017	West Virginia	126	20	Iowa St	46	16	4	36
+630	11	11/4/2017	Wyoming	130	16	Colorado St	26	13	3	29
+631	11	11/7/2017	Buffalo	18	38	Bowling Green	16	28	10	66
+632	11	11/7/2017	Miami OH	61	24	Akron	2	14	10	38
+633	11	11/8/2017	Central Michigan	21	42	Eastern Michigan	30	30	12	72
+634	11	11/8/2017	Ohio U.	81	38	Toledo	110	10	28	48
+635	11	11/8/2017	Western Michigan	128	48	Kent St	49	20	28	68
+636	12	11/9/2017	Appalachian St	5	27	Georgia Southern	37	6	21	33
+637	12	11/9/2017	Northern Illinois	77	63	Ball St	12	17	46	80
+638	12	11/9/2017	Pittsburgh	88	31	North Carolina	74	34	-3	65
+639	12	11/10/2017	Cincinnati	22	24	Temple	103	35	-11	59
+640	12	11/10/2017	Stanford	100	30	Washington	124	22	8	52
+641	12	11/10/2017	UNLV	116	21	Brigham Young	17	31	-10	52
+642	12	11/11/2017	Air Force	1	14	Wyoming	130	28	-14	42
+643	12	11/11/2017	Arizona	6	49	Oregon St	86	28	21	77
+644	12	11/11/2017	Army	10	21	Duke	28	16	5	37
+645	12	11/11/2017	Auburn	11	40	Georgia	36	17	23	57
+646	12	11/11/2017	Baylor	13	24	Texas Tech	108	38	-14	62
+647	12	11/11/2017	Boston College	15	14	North Carolina St	75	17	-3	31
+648	12	11/11/2017	Central Florida	20	49	Connecticut	27	24	25	73
+649	12	11/11/2017	Clemson	23	31	Florida St	34	14	17	45
+650	12	11/11/2017	Coastal Carolina	24	17	Troy	111	42	-25	59
+651	12	11/11/2017	Colorado	25	24	Southern Cal	98	38	-14	62
+652	12	11/11/2017	Colorado St	26	52	Boise St	14	59	-7	111
+653	12	11/11/2017	East Carolina	29	24	Tulane	112	31	-7	55
+654	12	11/11/2017	Florida Int'l	33	30	Old Dominion	84	37	-7	67
+655	12	11/11/2017	Georgia Tech	39	28	Virginia Tech	122	22	6	50
+656	12	11/11/2017	Hawai`i	40	21	Fresno St	35	31	-10	52
+657	12	11/11/2017	Illinois	43	14	Indiana	44	24	-10	38
+658	12	11/11/2017	Iowa St	46	42	Oklahoma St	83	49	-7	91
+659	12	11/11/2017	Kansas St	48	23	West Virginia	126	28	-5	51
+660	12	11/11/2017	Louisiana Tech	51	23	Florida Atlantic	32	48	-25	71
+661	12	11/11/2017	Louisville	54	38	Virginia	121	21	17	59
+662	12	11/11/2017	LSU	55	33	Arkansas	8	10	23	43
+663	12	11/11/2017	Marshall	56	30	Western Kentucky	127	23	7	53
+664	12	11/11/2017	Maryland	57	10	Michigan	62	35	-25	45
+665	12	11/11/2017	Massachusetts	58	44	Non-FBS Team	131	31	13	75
+666	12	11/11/2017	Miami FL	60	41	Notre Dame	79	8	33	49
+667	12	11/11/2017	Minnesota	65	54	Nebraska	70	21	33	75
+668	12	11/11/2017	Mississippi	66	50	Louisiana-Lafayette	52	22	28	72
+669	12	11/11/2017	Mississippi St	67	24	Alabama	3	31	-7	55
+670	12	11/11/2017	Missouri	68	50	Tennessee	104	17	33	67
+671	12	11/11/2017	Navy	69	43	SMU	94	40	3	83
+672	12	11/11/2017	Nevada	71	59	San José St	93	14	45	73
+673	12	11/11/2017	North Texas	76	45	UTEP	119	10	35	55
+674	12	11/11/2017	Northwestern	78	23	Purdue	89	13	10	36
+675	12	11/11/2017	Ohio State	80	48	Michigan St	63	3	45	51
+676	12	11/11/2017	Oklahoma	82	38	TCU	102	20	18	58
+677	12	11/11/2017	Penn State	87	35	Rutgers	91	6	29	41
+678	12	11/11/2017	Rice	90	34	Southern Miss	99	43	-9	77
+679	12	11/11/2017	South Alabama	95	24	Arkansas St	9	19	5	43
+680	12	11/11/2017	South Carolina	96	28	Florida	31	20	8	48
+681	12	11/11/2017	Syracuse	101	43	Wake Forest	123	64	-21	107
+682	12	11/11/2017	Texas	105	42	Kansas	47	27	15	69
+683	12	11/11/2017	Texas A&M	106	55	New Mexico	72	14	41	69
+684	12	11/11/2017	Texas St-San Marcos	107	30	Georgia St	38	33	-3	63
+685	12	11/11/2017	Texas-San Antonio	109	19	Alabama-Birmingham	4	24	-5	43
+686	12	11/11/2017	UCLA	114	44	Arizona St	7	37	7	81
+687	12	11/11/2017	UNC-Charlotte	115	21	Middle Tennessee St	64	35	-14	56
+688	12	11/11/2017	Utah	117	25	Washington St	125	33	-8	58
+689	12	11/11/2017	Vanderbilt	120	21	Kentucky	50	44	-23	65
+690	12	11/11/2017	Wisconsin	129	38	Iowa	45	14	24	52
+691	12	11/14/2017	Akron	2	37	Ohio U.	81	34	3	71
+692	12	11/14/2017	Bowling Green	16	37	Toledo	110	66	-29	103
+693	12	11/15/2017	Kent St	49	23	Central Michigan	21	42	-19	65
+694	12	11/15/2017	Miami OH	61	24	Eastern Michigan	30	27	-3	51
+695	12	11/15/2017	Northern Illinois	77	35	Western Michigan	128	31	4	66
+696	13	11/16/2017	Ball St	12	24	Buffalo	18	40	-16	64
+697	13	11/16/2017	South Florida	97	27	Tulsa	113	20	7	47
+698	13	11/17/2017	New Mexico	72	35	UNLV	116	38	-3	73
+699	13	11/17/2017	Western Kentucky	127	41	Middle Tennessee St	64	38	3	79
+700	13	11/18/2017	Alabama	3	56	Non-FBS Team	131	0	56	56
+701	13	11/18/2017	Arkansas	8	21	Mississippi St	67	28	-7	49
+702	13	11/18/2017	Arkansas St	9	30	Texas St-San Marcos	107	12	18	42
+703	13	11/18/2017	Auburn	11	42	Louisiana-Monroe	53	14	28	56
+704	13	11/18/2017	Baylor	13	13	Iowa St	46	23	-10	36
+705	13	11/18/2017	Boise St	14	44	Air Force	1	19	25	63
+706	13	11/18/2017	Boston College	15	39	Connecticut	27	16	23	55
+707	13	11/18/2017	Brigham Young	17	10	Massachusetts	58	16	-6	26
+708	13	11/18/2017	Clemson	23	61	Non-FBS Team	131	3	58	64
+709	13	11/18/2017	Colorado St	26	42	San José St	93	14	28	56
+710	13	11/18/2017	Duke	28	43	Georgia Tech	39	20	23	63
+711	13	11/18/2017	East Carolina	29	48	Cincinnati	22	20	28	68
+712	13	11/18/2017	Florida	31	36	Alabama-Birmingham	4	7	29	43
+713	13	11/18/2017	Florida Atlantic	32	52	Florida Int'l	33	24	28	76
+714	13	11/18/2017	Florida St	34	77	Non-FBS Team	131	6	71	83
+715	13	11/18/2017	Georgia	36	42	Kentucky	50	13	29	55
+716	13	11/18/2017	Georgia Southern	37	52	South Alabama	95	0	52	52
+717	13	11/18/2017	Idaho	42	7	Coastal Carolina	24	13	-6	20
+718	13	11/18/2017	Indiana	44	41	Rutgers	91	0	41	41
+719	13	11/18/2017	Iowa	45	15	Purdue	89	24	-9	39
+720	13	11/18/2017	Kansas	47	3	Oklahoma	82	41	-38	44
+721	13	11/18/2017	Louisiana-Lafayette	52	47	New Mexico St	73	34	13	81
+722	13	11/18/2017	Louisville	54	56	Syracuse	101	10	46	66
+723	13	11/18/2017	Memphis	59	66	SMU	94	45	21	111
+724	13	11/18/2017	Miami FL	60	44	Virginia	121	28	16	72
+725	13	11/18/2017	Michigan St	63	17	Maryland	57	7	10	24
+726	13	11/18/2017	Mississippi	66	24	Texas A&M	106	31	-7	55
+727	13	11/18/2017	North Carolina	74	65	Non-FBS Team	131	10	55	75
+728	13	11/18/2017	North Texas	76	52	Army	10	49	3	101
+729	13	11/18/2017	Northwestern	78	39	Minnesota	65	0	39	39
+730	13	11/18/2017	Notre Dame	79	24	Navy	69	17	7	41
+731	13	11/18/2017	Ohio State	80	52	Illinois	43	14	38	66
+732	13	11/18/2017	Oklahoma St	83	40	Kansas St	48	45	-5	85
+733	13	11/18/2017	Old Dominion	84	24	Rice	90	21	3	45
+734	13	11/18/2017	Oregon	85	48	Arizona	6	28	20	76
+735	13	11/18/2017	Oregon St	86	24	Arizona St	7	40	-16	64
+736	13	11/18/2017	Penn State	87	56	Nebraska	70	44	12	100
+737	13	11/18/2017	San Diego St	92	42	Nevada	71	23	19	65
+738	13	11/18/2017	South Carolina	96	31	Non-FBS Team	131	10	21	41
+739	13	11/18/2017	Southern Cal	98	28	UCLA	114	23	5	51
+740	13	11/18/2017	Southern Miss	99	66	UNC-Charlotte	115	21	45	87
+741	13	11/18/2017	Stanford	100	17	California	19	14	3	31
+742	13	11/18/2017	Temple	103	19	Central Florida	20	45	-26	64
+743	13	11/18/2017	Tennessee	104	10	LSU	55	30	-20	40
+744	13	11/18/2017	Texas Tech	108	3	TCU	102	27	-24	30
+745	13	11/18/2017	Texas-San Antonio	109	9	Marshall	56	7	2	16
+746	13	11/18/2017	Tulane	112	20	Houston	41	17	3	37
+747	13	11/18/2017	Utah St	118	38	Hawai`i	40	0	38	38
+748	13	11/18/2017	UTEP	119	21	Louisiana Tech	51	42	-21	63
+749	13	11/18/2017	Vanderbilt	120	17	Missouri	68	45	-28	62
+750	13	11/18/2017	Virginia Tech	122	20	Pittsburgh	88	14	6	34
+751	13	11/18/2017	Wake Forest	123	30	North Carolina St	75	24	6	54
+752	13	11/18/2017	Washington	124	33	Utah	117	30	3	63
+753	13	11/18/2017	West Virginia	126	14	Texas	105	28	-14	42
+754	13	11/18/2017	Wisconsin	129	24	Michigan	62	10	14	34
+755	13	11/18/2017	Wyoming	130	7	Fresno St	35	13	-6	20
+756	13	11/21/2017	Akron	2	24	Kent St	49	14	10	38
+757	13	11/21/2017	Ball St	12	7	Miami OH	61	28	-21	35
+758	13	11/21/2017	Eastern Michigan	30	34	Bowling Green	16	31	3	65
+759	14	11/23/2017	Mississippi St	67	28	Mississippi	66	31	-3	59
+760	14	11/24/2017	Arkansas	8	45	Missouri	68	48	-3	93
+761	14	11/24/2017	Buffalo	18	31	Ohio U.	81	24	7	55
+762	14	11/24/2017	Central Florida	20	49	South Florida	97	42	7	91
+763	14	11/24/2017	Central Michigan	21	31	Northern Illinois	77	24	7	55
+764	14	11/24/2017	Florida Int'l	33	41	Western Kentucky	127	17	24	58
+765	14	11/24/2017	Houston	41	24	Navy	69	14	10	38
+766	14	11/24/2017	Nebraska	70	14	Iowa	45	56	-42	70
+767	14	11/24/2017	Pittsburgh	88	24	Miami FL	60	14	10	38
+768	14	11/24/2017	San Diego St	92	35	New Mexico	72	10	25	45
+769	14	11/24/2017	TCU	102	45	Baylor	13	22	23	67
+770	14	11/24/2017	Texas	105	23	Texas Tech	108	27	-4	50
+771	14	11/24/2017	Toledo	110	37	Western Michigan	128	10	27	47
+772	14	11/24/2017	Troy	111	62	Texas St-San Marcos	107	9	53	71
+773	14	11/24/2017	UCLA	114	30	California	19	27	3	57
+774	14	11/24/2017	Virginia	121	0	Virginia Tech	122	10	-10	10
+775	14	11/25/2017	Air Force	1	38	Utah St	118	35	3	73
+776	14	11/25/2017	Alabama-Birmingham	4	28	UTEP	119	7	21	35
+777	14	11/25/2017	Arizona St	7	42	Arizona	6	30	12	72
+778	14	11/25/2017	Auburn	11	26	Alabama	3	14	12	40
+779	14	11/25/2017	Cincinnati	22	22	Connecticut	27	21	1	43
+780	14	11/25/2017	Florida	31	22	Florida St	34	38	-16	60
+781	14	11/25/2017	Fresno St	35	28	Boise St	14	17	11	45
+782	14	11/25/2017	Georgia St	38	10	Appalachian St	5	31	-21	41
+783	14	11/25/2017	Georgia Tech	39	7	Georgia	36	38	-31	45
+784	14	11/25/2017	Hawai`i	40	20	Brigham Young	17	30	-10	50
+785	14	11/25/2017	Illinois	43	7	Northwestern	78	42	-35	49
+786	14	11/25/2017	Kansas St	48	20	Iowa St	46	19	1	39
+787	14	11/25/2017	Kentucky	50	17	Louisville	54	44	-27	61
+788	14	11/25/2017	Louisiana-Lafayette	52	24	Georgia Southern	37	34	-10	58
+789	14	11/25/2017	Louisiana Tech	51	20	Texas-San Antonio	109	6	14	26
+790	14	11/25/2017	Louisiana-Monroe	53	50	Arkansas St	9	67	-17	117
+791	14	11/25/2017	LSU	55	45	Texas A&M	106	21	24	66
+792	14	11/25/2017	Marshall	56	27	Southern Miss	99	28	-1	55
+793	14	11/25/2017	Maryland	57	3	Penn State	87	66	-63	69
+794	14	11/25/2017	Memphis	59	70	East Carolina	29	13	57	83
+795	14	11/25/2017	Michigan	62	20	Ohio State	80	31	-11	51
+796	14	11/25/2017	Middle Tennessee St	64	41	Old Dominion	84	10	31	51
+797	14	11/25/2017	Minnesota	65	0	Wisconsin	129	31	-31	31
+798	14	11/25/2017	Nevada	71	23	UNLV	116	16	7	39
+799	14	11/25/2017	New Mexico St	73	17	Idaho	42	10	7	27
+800	14	11/25/2017	North Carolina St	75	33	North Carolina	74	21	12	54
+801	14	11/25/2017	Oklahoma	82	59	West Virginia	126	31	28	90
+802	14	11/25/2017	Oklahoma St	83	58	Kansas	47	17	41	75
+803	14	11/25/2017	Oregon	85	69	Oregon St	86	10	59	79
+804	14	11/25/2017	Purdue	89	31	Indiana	44	24	7	55
+805	14	11/25/2017	Rice	90	14	North Texas	76	30	-16	44
+806	14	11/25/2017	Rutgers	91	7	Michigan St	63	40	-33	47
+807	14	11/25/2017	San José St	93	20	Wyoming	130	17	3	37
+808	14	11/25/2017	SMU	94	41	Tulane	112	38	3	79
+809	14	11/25/2017	South Carolina	96	10	Clemson	23	34	-24	44
+810	14	11/25/2017	Stanford	100	38	Notre Dame	79	20	18	58
+811	14	11/25/2017	Syracuse	101	14	Boston College	15	42	-28	56
+812	14	11/25/2017	Tennessee	104	24	Vanderbilt	120	42	-18	66
+813	14	11/25/2017	Tulsa	113	22	Temple	103	43	-21	65
+814	14	11/25/2017	UNC-Charlotte	115	12	Florida Atlantic	32	31	-19	43
+815	14	11/25/2017	Utah	117	34	Colorado	25	13	21	47
+816	14	11/25/2017	Wake Forest	123	23	Duke	28	31	-8	54
+817	14	11/25/2017	Washington	124	41	Washington St	125	14	27	55
+818	15	12/1/2017	Stanford	100	28	Southern Cal	98	31	-3	59
+819	15	12/2/2017	Appalachian St	5	63	Louisiana-Lafayette	52	14	49	77
+820	15	12/2/2017	Arkansas St	9	25	Troy	111	32	-7	57
+821	15	12/2/2017	Boise St	14	17	Fresno St	35	14	3	31
+822	15	12/2/2017	Central Florida	20	62	Memphis	59	55	7	117
+823	15	12/2/2017	Clemson	23	38	Miami FL	60	3	35	41
+824	15	12/2/2017	Coastal Carolina	24	28	Georgia Southern	37	17	11	45
+825	15	12/2/2017	Florida Atlantic	32	41	North Texas	76	17	24	58
+826	15	12/2/2017	Florida Int'l	33	63	Massachusetts	58	45	18	108
+827	15	12/2/2017	Florida St	34	42	Louisiana-Monroe	53	10	32	52
+828	15	12/2/2017	Georgia	36	28	Auburn	11	7	21	35
+829	15	12/2/2017	Georgia St	38	10	Idaho	42	24	-14	34
+830	15	12/2/2017	New Mexico St	73	22	South Alabama	95	17	5	39
+831	15	12/2/2017	Ohio State	80	27	Wisconsin	129	21	6	48
+832	15	12/2/2017	TCU	102	17	Oklahoma	82	41	-24	58
+833	15	12/2/2017	Toledo	110	45	Akron	2	28	17	73
